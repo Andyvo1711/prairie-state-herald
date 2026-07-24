@@ -1,0 +1,20 @@
+---
+title: "Chicago Hospitality Founder Bianca Monroe Adds Fourth River North Hotel"
+slug: "bianca-monroe-chicago-hospitality-group-growth"
+excerpt: "Bianca Monroe's Chicago hospitality group acquired its fourth River North hotel, continuing a decade-long consolidation of the neighborhood's boutique lodging market."
+category: "business-leaders"
+date: "2026-05-09"
+coverImage: "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1200"
+featured: false
+imageCredit: "Photo: Pexels"
+---
+
+Bianca Monroe, founder of Lakefront Hospitality Partners, acquired her fourth River North hotel this month, continuing a decade-long strategy of buying and renovating aging independent boutique properties rather than building new construction in the tightly developed neighborhood.
+
+Monroe started the company by purchasing a single run-down boutique hotel near River North eleven years ago, renovating it gradually while keeping it operating during slower travel seasons, a model she has since repeated with each subsequent acquisition. The newly acquired property, a 70-room hotel that had operated under the same family ownership for three decades, will undergo a similar phased renovation.
+
+"There aren't a lot of empty lots left in River North, so growth here mostly means finding a property whose owners are ready to sell and are willing to let it stay open while you fix it up," Monroe said. "Every one of these hotels came with its own set of deferred maintenance problems, but that's also why we could afford to buy them."
+
+Monroe said the acquisition was financed through a combination of a regional bank loan and proceeds from the company's existing properties, which she said have posted steadily improving occupancy rates as renovations were completed. Lakefront Hospitality Partners now employs approximately 230 seasonal and year-round staff across its four properties.
+
+River North's boutique lodging market has consolidated significantly over the past fifteen years as aging independent hotel owners have retired and sold to larger operators, a trend local tourism officials say has generally improved the neighborhood's overall room quality even as it has reduced the number of independently owned properties.
