@@ -5,7 +5,7 @@ excerpt: "The University of Chicago opened a new cross-disciplinary institute de
 category: "education"
 date: "2026-06-17"
 coverImage: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=80"
-featured: true
+featured: false
 imageCredit: "Photo: Unsplash"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Gov. JB Pritzker has not decided whether to join the federal program, 
 category: "education"
 date: "2026-10-13"
 coverImage: "https://www.chalkbeat.org/resizer/v2/SXU5HLPPFRDS7MQZYGH5XOEYAY.jpg?smart=true&auth=c7f267f4eb7e101973c23418a4cff8b6dec759388cbf57e3259d55a190f81638&width=1600"
-featured: false
+featured: true
 imageCredit: "Photo: Chalkbeat Chicago"
 ---
 
