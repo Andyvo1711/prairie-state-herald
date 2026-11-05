@@ -4,9 +4,9 @@ slug: "tricoci-university-and-proviso-district-209-launch-cosmetology-pathway-fo
 excerpt: "Tricoci University of Beauty Culture has signed its first articulation agreement with Proviso Township District 209, letting eligible juniors and seniors earn high school credit while training toward a cosmetology or barbering license."
 category: "beauty-wellness"
 date: "2026-09-30"
-coverImage: "https://commons.wikimedia.org/wiki/Special:FilePath/Hairdresser_training_head_(mannequin_head)_from_company_L'Image,_No.1.jpg?width=1600"
+coverImage: "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty_salon_interior_by_Gary_Berkovich_(Winnetka,_Illinois).jpg?width=1600"
 featured: false
-imageCredit: "Wikimedia Commons/Pittigrilli (CC BY-SA 4.0)"
+imageCredit: "Wikimedia Commons/Gary Berkovich (CC BY-SA 3.0)"
 ---
 
 High school students in Chicago's western suburbs can now start training for a beauty career before they graduate. Tricoci University of Beauty Culture announced on September 30, 2026, that it has entered a new articulation agreement with Proviso Township District 209.

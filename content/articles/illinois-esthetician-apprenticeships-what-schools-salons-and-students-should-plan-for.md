@@ -4,9 +4,9 @@ slug: "illinois-esthetician-apprenticeships-what-schools-salons-and-students-sho
 excerpt: "A late-July industry guide says the state's new apprenticeship law will let aspiring estheticians earn wages while training under a licensed professional starting January 1, 2027."
 category: "beauty-wellness"
 date: "2026-07-28"
-coverImage: "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty_salon_interior_by_Gary_Berkovich_(Winnetka,_Illinois).jpg?width=1600"
+coverImage: "https://commons.wikimedia.org/wiki/Special:FilePath/Inside_the_Hair_Salon_(5577833869).jpg?width=1600"
 featured: false
-imageCredit: "Wikimedia Commons/Gary Berkovich (CC BY-SA 3.0)"
+imageCredit: "Wikimedia Commons/johnrosman (CC BY 2.0)"
 ---
 
 For skin care professionals, Illinois' new apprenticeship law may change how careers begin. A guide distributed July 28, 2026, by business directory MyTSV explains how House Bill 3460 applies to estheticians.
